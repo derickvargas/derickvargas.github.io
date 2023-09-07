@@ -39,6 +39,7 @@ p {
     font-size: 14px;
     font-weight: 400;
 }
+
 * {
     box-sizing: border-box;
 }
@@ -75,6 +76,7 @@ header {
     height: 55px;
     margin-top: 34px;
 }
+
 .menu {
     width: 100%;
     display: flex;
@@ -104,6 +106,7 @@ header {
 
 .p-imagen h4 {
     text-align: center;
+    
 }
 .portada {
     display: grid;
