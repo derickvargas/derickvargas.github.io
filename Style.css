@@ -81,8 +81,7 @@ header {
     flex-direction: row;
     justify-content: flex-end;
     align-items: center;
-
-    gap: 56px;
+    gap: 96px;
 
 }
 
