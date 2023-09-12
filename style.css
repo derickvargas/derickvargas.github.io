@@ -90,7 +90,7 @@ header {
     margin: 0 auto;
 
     padding: 80px 0;
-    color: rgb(0, 0, 0);
+    color: rgb(138, 138, 138);
 }
 
 .p-texto img {   
@@ -98,7 +98,7 @@ header {
      
 }
 .p-imagen h1 {
-    background-color: rgb(110, 110, 110);
+    background-color: rgb(48, 48, 48);
     padding: 10px;
 }
 
@@ -194,4 +194,12 @@ header {
 .tipografia img {
     height: 45px;
     align-content: center;
+}
+
+.p-texto {
+    color: rgb(196, 196, 196);
+}
+
+.p-texto2 {
+    color: rgb(196, 196, 196);
 }
