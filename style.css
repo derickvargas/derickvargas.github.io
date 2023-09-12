@@ -90,7 +90,7 @@ header {
     margin: 0 auto;
 
     padding: 80px 0;
-    color: rgb(170, 170, 170);
+    color: rgb(138, 138, 138);
 }
 
 .p-texto img {   
@@ -98,7 +98,7 @@ header {
      
 }
 .p-imagen h1 {
-    background-color: rgb(48, 48, 48);
+    background-color: rgb(170, 170, 170);
     padding: 10px;
 }
 
