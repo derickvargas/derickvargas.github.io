@@ -1,1 +1,0 @@
-# derickvargas.github.io
